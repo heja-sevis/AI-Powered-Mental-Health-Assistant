@@ -126,6 +126,7 @@ def generate_response(age, gender, profession, issue):
     response = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
     response = response.split("Assistant:")[-1].strip()
     return response
+    
   # Gradio arayüzü
 demo = gr.Interface(
     fn=generate_response,
