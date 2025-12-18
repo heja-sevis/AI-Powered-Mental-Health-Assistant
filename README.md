@@ -28,6 +28,6 @@ The model's knowledge base is built by merging three specialized sources: intent
 
 ## ⚠️ Disclaimer
 **This AI assistant is for educational and motivational purposes only.**
-It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified health provider with any questions you may have regarding a medical condition.
+*It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified health provider with any questions you may have regarding a medical condition.
 
 ---
