@@ -3,8 +3,6 @@
 This repository contains a specialized AI assistant designed to provide motivational and actionable support for mental health concerns. 
 The project utilizes Parameter-Efficient Fine-Tuning (PEFT) on the Llama-3.1-8B-Instruct model to deliver concise and encouraging responses.
 
-**🔗 Live:** [Global Energy Insights: Tracing the Origins and Outcomes View the Dashboard on Streamlit](https://global-energy-insights-tracing-the-origins-and-outcomes.streamlit.app)
-
 ---
 
 ## 🌟 Key Features
